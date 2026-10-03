@@ -37,6 +37,19 @@ project/
 └── README.md
 ```
 
+## Requirements
+
+- Python 3.10 or later recommended
+- Jupyter Notebook support in VS Code
+- pandas
+- numpy
+- matplotlib
+- scipy
+- scikit-learn
+- tensorflow / keras (for the ANN section)
+- joblib
+---
+
 Some output files are created only after the related notebook cells run.
 
 ## Tasks
