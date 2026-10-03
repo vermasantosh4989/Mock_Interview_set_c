@@ -123,6 +123,16 @@ Depending on which notebook cells have been run, the project may create:
 
 - `set_c_preprocessing.joblib`
 
+- ---
+
+# Author
+
+**Name:** Santosh Verma
+
+**Project:** Mall Shopper Profiling using Unsupervised Machine Learning
+
+**Course:** Data Science / AI/ML
+
 ## Summary
 
 This project demonstrates an end-to-end introductory workflow for delivery-risk prediction, including data quality checks, leakage-aware preprocessing, feature engineering, and a comparison between a baseline model and Logistic Regression. The generated dataset is intended for learning and does not establish real-world model performance.
