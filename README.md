@@ -8,6 +8,15 @@ This project builds a beginner-friendly machine learning workflow to predict whe
 
 Late deliveries can affect customer satisfaction and delivery operations. This project demonstrates how a machine learning workflow can help identify deliveries that may need extra attention.
 
+---
+## 🎥 Project Demonstration
+
+A complete demonstration of this project has been recorded, including a face and screen presentation. The video explains the project workflow, dataset analysis, feature engineering, implementation of all clustering algorithms, evaluation metrics, business insights, and final conclusions.
+
+**Video Link:**  
+🔗 https://drive.google.com/file/d/1h76Z9Mq3oHMJUjuVWnIIP1vEYj9-49KQ/view?usp=sharing
+
+---
 ## Dataset
 
 Raw dataset path: `data/raw/set_b.csv`
