@@ -14,7 +14,7 @@ Late deliveries can affect customer satisfaction and delivery operations. This p
 A complete demonstration of this project has been recorded, including a face and screen presentation. The video explains the project workflow, dataset analysis, feature engineering, implementation of all clustering algorithms, evaluation metrics, business insights, and final conclusions.
 
 **Video Link:**  
-🔗 https://drive.google.com/file/d/1h76Z9Mq3oHMJUjuVWnIIP1vEYj9-49KQ/view?usp=sharing
+🔗 https://drive.google.com/file/d/1b3QIWl7TCAwzuWjWQsUz6Mssj-wNunfy/view?usp=sharing
 
 ---
 ## Dataset
